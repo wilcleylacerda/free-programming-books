@@ -117,6 +117,7 @@
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
 * [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe (YouTube)
 * [Go - Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes (YouTube)
+* [Linguagem Go: Começando do Zero](https://www.youtube.com/watch?v=kdneT0pDeN0) - Full Cycle (YouTube)
 
 
 ### Gulp
